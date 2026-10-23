@@ -1,0 +1,18 @@
+[global]
+developmentMode = false
+
+[logger]
+level = "warning"
+
+[theme]
+base = "light"
+primaryColor = "#177e72"
+backgroundColor = "#f6f8f3"
+secondaryBackgroundColor = "#e8f0e8"
+textColor = "#183c3a"
+
+[server]
+maxUploadSize = 20
+
+[browser]
+gatherUsageStats = false
